@@ -396,7 +396,7 @@ button{
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-button:hover{
+button:hover,.buttonone:hover{
   background-color: rgba(255, 255, 255,0.3);
   color: black;
   border-radius: 100px;
